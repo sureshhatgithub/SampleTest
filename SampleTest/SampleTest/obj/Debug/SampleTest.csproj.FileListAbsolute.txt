@@ -1,0 +1,7 @@
+C:\Users\suresh\source\repos\SampleTest\SampleTest\bin\Debug\SampleTest.exe.config
+C:\Users\suresh\source\repos\SampleTest\SampleTest\bin\Debug\SampleTest.exe
+C:\Users\suresh\source\repos\SampleTest\SampleTest\bin\Debug\SampleTest.pdb
+C:\Users\suresh\source\repos\SampleTest\SampleTest\obj\Debug\SampleTest.csproj.CoreCompileInputs.cache
+C:\Users\suresh\source\repos\SampleTest\SampleTest\obj\Debug\SampleTest.exe
+C:\Users\suresh\source\repos\SampleTest\SampleTest\obj\Debug\SampleTest.pdb
+C:\Users\suresh\source\repos\SampleTest\SampleTest\obj\Debug\SampleTest.csprojAssemblyReference.cache
